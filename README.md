@@ -1,6 +1,6 @@
 # Oral 16S release-shift study
 
-This repository is independent of the submitted CREO-Research project. It contains an exploratory paired oral 16S reference-sequence comparison and a [40-reference author manuscript](manuscript.md).
+This repository contains an exploratory paired oral 16S reference-sequence comparison and a [40-reference author manuscript](manuscript.md).
 
 **Main finding:** On the same 2,236 v16.03 sequences from historically represented HMTs, a full-length 16S nearest-reference classifier assigned the correct HMT on **90.03%** of queries, versus **80.23%** using in-silico V3–V4 fragments. The gain was **9.79 percentage points** (95% HMT-cluster-bootstrap interval **5.84–14.67 points**). The paired novelty AUROC difference had an interval spanning zero. This analysis was devised after an initial release inspection and requires external specimen or isolate confirmation.
 
